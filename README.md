@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NizamutdinovEmir
 - 👀 I’m interested in programming , mathematics and related disciplines
 - 🌱 I’m currently learning at ITMO
-- 📫 How to reach me: email - emir.nizam11@gmail.com
+- 📫 How to reach me: email - emir.nizam11@mail.ru
 
 <!---
 NizamutdinovEmir/NizamutdinovEmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
